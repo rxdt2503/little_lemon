@@ -4,10 +4,6 @@ Welcome to the Little Lemon Restaurant website repository. This project was crea
 
 ![Website Preview](./src/assets/preview.png)
 
-## Live Preview
-
-Check out the live version of the website! [View Live Demo](https://littlelemon.leanczo.vercel.app/)
-
 ## Features
 
 - Smooth navigation through the pages.
